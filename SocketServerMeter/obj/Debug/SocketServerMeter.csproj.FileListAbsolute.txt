@@ -1,0 +1,10 @@
+D:\SocketServerMeter\SocketServerMeter\obj\Debug\SocketServerMeter.csprojAssemblyReference.cache
+D:\SocketServerMeter\SocketServerMeter\obj\Debug\SocketServerMeter.Form1.resources
+D:\SocketServerMeter\SocketServerMeter\obj\Debug\SocketServerMeter.Properties.Resources.resources
+D:\SocketServerMeter\SocketServerMeter\obj\Debug\SocketServerMeter.csproj.GenerateResource.cache
+D:\SocketServerMeter\SocketServerMeter\obj\Debug\SocketServerMeter.csproj.CoreCompileInputs.cache
+D:\SocketServerMeter\SocketServerMeter\bin\Debug\SocketServerMeter.exe.config
+D:\SocketServerMeter\SocketServerMeter\bin\Debug\SocketServerMeter.exe
+D:\SocketServerMeter\SocketServerMeter\bin\Debug\SocketServerMeter.pdb
+D:\SocketServerMeter\SocketServerMeter\obj\Debug\SocketServerMeter.exe
+D:\SocketServerMeter\SocketServerMeter\obj\Debug\SocketServerMeter.pdb
